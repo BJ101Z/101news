@@ -1,6 +1,6 @@
 # 101NEWS
 
-[zh](README.md) | [en](README-en.md)
+Language: [🇨🇳](README.md) | [🇺🇸](README-en.md)
 
 Hi, this is 101NEWS
 
