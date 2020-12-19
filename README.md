@@ -56,6 +56,16 @@ salary:
   你加入的理由，包括但不限于特长、进来学习等
 - salsry  
   你加入后是否要薪水，**请填 `true` 或 `false`**
+  
+- 例子
+  ```plain
+  name: 洪思暖
+  github-name: nuannuan3226
+  grade: 7
+  class: 9
+  reason: 精通黄希坡的《引体向上新方法》
+  salary: true
+  ```
 
 **邮件务必按照模板发送，不要有多余的东西，否则不予通过**
 
