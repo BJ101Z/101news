@@ -1,5 +1,7 @@
 # 101NEWS
 
+[zh](README.md) | [en](README-en.md)
+
 hi，这里是 101NEWS
 
 ## 简介
