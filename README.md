@@ -1,6 +1,6 @@
 # 101NEWS
 
-[zh](README.md) | [en](README-en.md)
+Language: [🇨🇳](README.md) | [🇺🇸](README-en.md)
 
 hi，这里是 101NEWS
 
@@ -76,3 +76,4 @@ salary:
 
 [<img src="https://avatars3.githubusercontent.com/u/54938112?s=36&v=4" alt="TNTtian" width="46" height="46" align="bottom" />](https://github.com/TNTtian)
 [<img src="https://avatars3.githubusercontent.com/u/75515883?s=36&v=4" alt="xuziqin-08" width="46" height="46" align="bottom" />](https://github.com/xuziqin-08)
+
