@@ -19,4 +19,5 @@ hi，这里是 101NEWS
 
 ## Contributors
 
-[![](https://avatars3.githubusercontent.com/u/54938112?s=36&v=4)](https://github.com/TNTtian) [![](https://avatars3.githubusercontent.com/u/75515883?s=36&v=4)](https://github.com/xuziqin-08)
+[<img src="https://avatars3.githubusercontent.com/u/54938112?s=36&v=4" alt="TNTtian" width="46" height="46" align="bottom" />](https://github.com/TNTtian)
+[<img src="https://avatars3.githubusercontent.com/u/75515883?s=36&v=4" alt="xuziqin-08" width="46" height="46" align="bottom" />](https://github.com/xuziqin-08)
